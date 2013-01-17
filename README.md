@@ -20,7 +20,7 @@ When you've selected a clipping, Jumpcut will put it on the pasteboard and attem
 
 I've tried to allow a few different methods for navigating in the bezel. You can move down the stack using the right arrow, down arrow, or "V" key; you can move up the stack using the left arrow, up arrow, or "Shift-V". Home moves to the beginning, and End moves to the end. Page Up and Page Down scroll through the stack more quickly. If you change your mind and decide not to paste the application, hit escape to make the bezel vanish. 
 
-A "sticky bezel" preference is available; if it's selected, you must explicitly hit return or escape to dismiss the bezel. In this, you can hit 's' to mark current item to persistent item; hit 't' to toggle between the normal list and persistent list.
+__A "sticky bezel" preference is available; if it's selected, you must explicitly hit return or escape to dismiss the bezel. In this, you can hit 's' to mark current item to persistent item; hit 't' to toggle between the normal list and persistent list.__
 
 Jumpcut remembers the last clipping you selected using the bezel. The next time you bring the bezel up, it will start with that clipping unless it's scrolled off the stack.
 
